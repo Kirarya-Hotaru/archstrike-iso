@@ -8,7 +8,6 @@ b43-fwcutter
 base
 bind-tools
 brltty
-broadcom-wl
 btrfs-progs
 clonezilla
 cloud-init
@@ -39,8 +38,6 @@ grml-zsh-config
 grub
 hdparm
 intel-ucode
-ipw2100-fw
-ipw2200-fw
 irssi
 iw
 iwd
